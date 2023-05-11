@@ -1,0 +1,15 @@
+body,html {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+}
+
+.inbox {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
